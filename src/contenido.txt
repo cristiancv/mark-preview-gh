@@ -1,0 +1,48 @@
+https://www11.cuevana3.ch/episodio/ash-vs-evil-dead-1x8
+"# Previsualizador de texto Markdown\n## Ingresa aquí en este panel el texto a visualizar\n### Puedes revisar otros de mis proyectos: \n[Aquí](https://cristiancv.github.io)
+
+Para ingresar código de una línea envolviéndolo entre tildes inversas:
+`console.log("Hola mundo");`
+
+Para ingresar código de varias líneas o un bloque de instrucciones,
+se las debe encerrar dentro de tres pares de tildes inversas, Por ej.:
+~~~
+function saludar(nombre){
+  console.log("Hola ", nombre)
+}; 
+saludar("Usuario");           
+~~~
+Para agregar listas no ordenadas, se agrega un signo '-' antes del item
+Por ej.:
+
+### Programas más demandados
+- Python 3
+- Javascript
+- Java
+- C#
+----
+Para agregar listas ordenadas(numeradas), se antepone un '1.' antes del ítem
+
+### Pasos previos a crear código
+
+1. Análisis e interpretación del problema.
+2. Escribir previamente la solución en papel.
+3. Escribir la solución en algoritmo/lenguaje natural.
+4. De ser posible crear un diagrama de flujo.
+5. Codificar la solución en el Lenguaje de programación.
+
+Para crear una cita se antecede el símbolo ">" por cada párrafo
+> La magia no existe, la programación si. - Desconocido
+----
+> " Para agregar imágenes se antepone una exclamación y > luego se agrega entre corchetes el nombre del texto > alternativo de la imagen y entre paréntesis el 
+> enlace del recurso" - Cita en bloque:
+---
+Para agregar imágenes se antepone una exclamación y luego se agrega entre corchetes el nombre del texto alternativo de la imagen y entre paréntesis el enlace del recurso:
+
+Insertando una imágen
+
+![markdown_logo](https://i.blogs.es/eaff13/markdown-que-es-1/1366_2000.webp)
+
+Para resaltar texto en negrita se envuelve las palabras entre dos pares de '*' o '_'
+
+**Fin del documento.**
